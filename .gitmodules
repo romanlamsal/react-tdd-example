@@ -1,0 +1,6 @@
+[submodule "typescript"]
+	path = typescript
+	url = ./typescript/
+[submodule "javascript"]
+	path = javascript
+	url = ./javascript/
